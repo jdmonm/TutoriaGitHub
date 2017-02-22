@@ -1,0 +1,7 @@
+if rate {
+	calificacion = 5
+}
+
+for estudiantes { 
+	print("Estudiantes")
+}
